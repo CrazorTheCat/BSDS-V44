@@ -1,8 +1,8 @@
 Discord link : https://discord.gg/mt4dUxXryh
 
-ANDROID 1 (MEDIAFIRE) (UPDATED!) : https://www.mediafire.com/file/njptm3nhto0xm19/com.projectsbsds.v43229-rev1.apk/file
+ANDROID 1 (MEDIAFIRE) : https://www.mediafire.com/file/biid9ttuhiyeaoi/com.projectbsds.v44226.apk/file
 
-ANDROID 2 (GOOGLE DRIVE) (UPDATED!) : https://drive.google.com/file/d/1BKjqkRdPO9FAA5HcEPdiEKzUBhtifwl7/view?usp=sharing
+ANDROID 2 (GOOGLE DRIVE) : https://drive.google.com/file/d/1zKy632blJDJV7YuBnUZe18Pxpra2lvm5/view?usp=sharing
 
 Server ZIP: https://github.com/CrazorTheCat/BSDS-V44/archive/refs/heads/master.zip
 

@@ -122,6 +122,8 @@
     <Content Include="ContentUpdater\lastversion.txt" />
     <Content Include="ContentUpdater\readme.txt" />
     <Content Include="ContentUpdater\Update\okwhy.txt" />
+    <Content Include="Database\Files\player.sqlite" />
+    <Content Include="Database\Files\club.sqlite" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Classes" />
@@ -156,6 +158,7 @@
     <Folder Include="ContentUpdater\Content\assets\csv_logic\" />
     <Folder Include="ContentUpdater\Update" />
     <Folder Include="Database" />
+    <Folder Include="Database\Files\" />
     <Folder Include="Static" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
